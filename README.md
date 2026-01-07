@@ -30,3 +30,8 @@ A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, 
 
 ---
 ## 🔧 Scripts disponíveis
+
+### TestePortaTCP.py
+- Serviço TCP simples para testes de conectividade
+- Escuta portas configuráveis via linha de comando
+- Auxilia em diagnósticos de rede e estudos de sockets
