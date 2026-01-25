@@ -2,7 +2,7 @@
 
 Este repositório reúne meus **scripts em Python** criados durante **estudos, laboratórios e prática diária de codigos em python**.
 
-A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, ajustar e compartilhar conhecimento**.
+A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, ajustar e compartilhar conhecimento** é melhor forma de aprender.
 
 ---
 
