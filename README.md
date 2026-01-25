@@ -2,7 +2,7 @@
 
 Este repositório reúne meus **scripts em Python** criados durante **estudos, laboratórios e prática diária de codigos em python**.
 
-A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, ajustar e compartilhar conhecimento** sobre administração de sistemas Linux.
+A ideia aqui não é apenas automatizar tarefas, mas **aprender, testar, errar, ajustar e compartilhar conhecimento**.
 
 ---
 
